@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+.clickable {
+    cursor: pointer; /* Zmienia kursor na wskaźnik, gdy najedziesz na klikalny tekst */
+}
+
+.hidden {
+    display: none; /* Ukryj domyślnie elementy z klasą 'hidden' */
+}
